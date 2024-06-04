@@ -1,0 +1,45 @@
+{
+    "appName": {
+      "message": "PassSnap"
+    },
+    "appDescription": {
+      "message": "Copy or reveal password fields with a click."
+    },
+    "copyPassword": {
+      "message": "Copy Password"
+    },
+    "revealPassword": {
+      "message": "Reveal Password"
+    },
+    "copyAndRevealPassword": {
+      "message": "Copy and Reveal Password"
+    },
+    "copyEnabled": {
+      "message": "Copy functionality enabled!"
+    },
+    "revealEnabled": {
+      "message": "Reveal functionality enabled!"
+    },
+    "copyAndRevealEnabled": {
+      "message": "Copy and Reveal functionality enabled!"
+    },
+    "disableForPage": {
+      "message": "Disable for this Page"
+    },
+    "disableForDomain": {
+      "message": "Disable for this Domain"
+    },
+    "reloadPage": {
+      "message": "Reload Page"
+    },
+    "enableForPage": {
+      "message": "Enable for this Page"
+    },
+    "enableForDomain": {
+      "message": "Enable for this Domain"
+    },
+    "passwordCopied": {
+      "message": "Password copied to clipboard!"
+    }
+  }
+  

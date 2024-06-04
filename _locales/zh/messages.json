@@ -1,0 +1,44 @@
+{
+  "appName": {
+    "message": "PassSnap"
+  },
+  "appDescription": {
+    "message": "单击即可复制或显示密码字段。"
+  },
+  "copyPassword": {
+    "message": "复制密码"
+  },
+  "revealPassword": {
+    "message": "显示密码"
+  },
+  "copyAndRevealPassword": {
+    "message": "复制并显示密码"
+  },
+  "copyEnabled": {
+    "message": "复制功能已启用！"
+  },
+  "revealEnabled": {
+    "message": "显示功能已启用！"
+  },
+  "copyAndRevealEnabled": {
+    "message": "复制和显示功能已启用！"
+  },
+  "disableForPage": {
+    "message": "禁用此页面"
+  },
+  "disableForDomain": {
+    "message": "禁用此域名"
+  },
+  "reloadPage": {
+    "message": "重新加载页面"
+  },
+  "enableForPage": {
+    "message": "启用此页面"
+  },
+  "enableForDomain": {
+    "message": "启用此域名"
+  },
+  "passwordCopied": {
+    "message": "密码已复制到剪贴板！"
+  }
+}

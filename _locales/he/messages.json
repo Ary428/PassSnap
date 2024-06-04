@@ -1,0 +1,44 @@
+{
+  "appName": {
+    "message": "PassSnap"
+  },
+  "appDescription": {
+    "message": "העתק או חשוף שדות סיסמאות בלחיצה."
+  },
+  "copyPassword": {
+    "message": "העתק סיסמה"
+  },
+  "revealPassword": {
+    "message": "חשוף סיסמה"
+  },
+  "copyAndRevealPassword": {
+    "message": "העתק וחשוף סיסמה"
+  },
+  "copyEnabled": {
+    "message": "העתקת הסיסמה הופעלה!"
+  },
+  "revealEnabled": {
+    "message": "חשיפת הסיסמה הופעלה!"
+  },
+  "copyAndRevealEnabled": {
+    "message": "העתקה וחשיפת הסיסמה הופעלה!"
+  },
+  "disableForPage": {
+    "message": "השבת עבור עמוד זה"
+  },
+  "disableForDomain": {
+    "message": "השבת עבור דומיין זה"
+  },
+  "reloadPage": {
+    "message": "טען מחדש את הדף"
+  },
+  "enableForPage": {
+    "message": "הפעל עבור עמוד זה"
+  },
+  "enableForDomain": {
+    "message": "הפעל עבור דומיין זה"
+  },
+  "passwordCopied": {
+    "message": "הסיסמה הועתקה ללוח!"
+  }
+}

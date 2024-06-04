@@ -1,0 +1,44 @@
+{
+  "appName": {
+    "message": "PassSnap"
+  },
+  "appDescription": {
+    "message": "Kopieren oder enthüllen Sie Passwortfelder mit einem Klick."
+  },
+  "copyPassword": {
+    "message": "Passwort kopieren"
+  },
+  "revealPassword": {
+    "message": "Passwort enthüllen"
+  },
+  "copyAndRevealPassword": {
+    "message": "Passwort kopieren und enthüllen"
+  },
+  "copyEnabled": {
+    "message": "Kopierfunktion aktiviert!"
+  },
+  "revealEnabled": {
+    "message": "Enthüllfunktion aktiviert!"
+  },
+  "copyAndRevealEnabled": {
+    "message": "Kopier- und Enthüllfunktion aktiviert!"
+  },
+  "disableForPage": {
+    "message": "Für diese Seite deaktivieren"
+  },
+  "disableForDomain": {
+    "message": "Für diese Domain deaktivieren"
+  },
+  "reloadPage": {
+    "message": "Seite neu laden"
+  },
+  "enableForPage": {
+    "message": "Für diese Seite aktivieren"
+  },
+  "enableForDomain": {
+    "message": "Für diese Domain aktivieren"
+  },
+  "passwordCopied": {
+    "message": "Passwort in die Zwischenablage kopiert!"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "appName": {
+    "message": "PassSnap"
+  },
+  "appDescription": {
+    "message": "Copiez ou révélez des champs de mot de passe d'un clic."
+  },
+  "copyPassword": {
+    "message": "Copier le mot de passe"
+  },
+  "revealPassword": {
+    "message": "Révéler le mot de passe"
+  },
+  "copyAndRevealPassword": {
+    "message": "Copier et révéler le mot de passe"
+  },
+  "copyEnabled": {
+    "message": "Fonctionnalité de copie activée!"
+  },
+  "revealEnabled": {
+    "message": "Fonctionnalité de révélation activée!"
+  },
+  "copyAndRevealEnabled": {
+    "message": "Fonctionnalité de copie et révélation activée!"
+  },
+  "disableForPage": {
+    "message": "Désactiver pour cette page"
+  },
+  "disableForDomain": {
+    "message": "Désactiver pour ce domaine"
+  },
+  "reloadPage": {
+    "message": "Recharger la page"
+  },
+  "enableForPage": {
+    "message": "Activer pour cette page"
+  },
+  "enableForDomain": {
+    "message": "Activer pour ce domaine"
+  },
+  "passwordCopied": {
+    "message": "Mot de passe copié dans le presse-papiers!"
+  }
+}
