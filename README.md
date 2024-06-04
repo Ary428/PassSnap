@@ -78,17 +78,6 @@ This permission enables the extension to operate on specific domains, ensuring t
 ### Remote Code Execution
 Remote code may be used to update the extension or add new functionalities dynamically without requiring manual updates. All remote code complies with safety and privacy requirements.
 
-## Contributing
-
-We welcome contributions to improve PassSnap! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
-
 ## License
 
 PassSnap is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
