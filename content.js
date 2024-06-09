@@ -1,4 +1,3 @@
-console.log('Content script loaded');
 // Function to copy password to clipboard using the Clipboard API
 async function copyPasswordToClipboard(password) {
   try {
@@ -56,7 +55,6 @@ async function addCopyButtons() {
       ));
       actionButton.style.marginLeft = '10px';
 
-
       // Apply MUI styles
       Object.assign(actionButton.style, {
         backgroundColor: '#1976d2',
@@ -90,6 +88,13 @@ async function addCopyButtons() {
         } else if (action === 'copy_and_reveal') {
           copyPasswordToClipboard(field.value);
           revealPassword(field);
+        }
+      });
+
+      // Prevent copy action on Enter key press in the password field
+      field.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+          event.preventDefault();
         }
       });
 
